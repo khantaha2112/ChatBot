@@ -16,7 +16,8 @@ npm run start:dev
 
 ## Demo
 ### The chatbot greets you on opening the website
-![greeting message](./screenshots/1.png)
+![greeting message](![image](https://github.com/user-attachments/assets/c5ace3c3-ded8-42f6-9def-88fd209622f8)
+)
 
 ---
 
